@@ -7,7 +7,9 @@ Desenvolvedor FullStack Júnior (Java e JavaScript).
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-006400?style=flat-square&logoColor=white&logo=whatsapp&link=https://api.whatsapp.com/send?phone=55+12+982657371)](https://api.whatsapp.com/send?phone=55+12+982657371)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-316192?style=flat-square&logoColor=white&logo=telegram&link=https://t.me/filipeoliveira1)](https://t.me/filipeoliveira1)
 
-Meu foco é Java, JavaScript e SQL. Sou entusiasta da Visão Computacional. No Trabalho de Graduação desenvolvi um aplicativo Android de Visão Computacional para comunicação através do rastreamento ocular, com Java e OpenCV.
+Meu foco é Java, JavaScript e SQL.
+
+Sou entusiasta da Visão Computacional. Desenvolvi um aplicativo Android de Visão Computacional para comunicação através do rastreamento ocular, com Java e OpenCV.
 
 # Skills:
 
