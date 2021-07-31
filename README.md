@@ -1,16 +1,18 @@
-### Hi there 👋
+# Rúben Filipe
 
-<!--
-**filiperdt/filiperdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor FullStack Júnior (Java e JavaScript).
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-316192?style=flat-square&logo=linkedin&logoColor=white//www.linkedin.com/in/filipedev/)](https://www.linkedin.com/in/filipedev/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-A52A2A?style=flat-square&logo=gmail&logoColor=white&link=mailto:rubenfilipeao@gmail.com)](mailto:rubenfilipeao@gmail.com)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-006400?style=flat-square&logoColor=white&logo=whatsapp&link=https://api.whatsapp.com/send?phone=55+12+982657371)](https://api.whatsapp.com/send?phone=55+12+982657371)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-316192?style=flat-square&logoColor=white&logo=telegram&link=https://t.me/filipeoliveira1)](https://t.me/filipeoliveira1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu foco é Java, JavaScript e SQL. Sou entusiasta da Visão Computacional. No Trabalho de Graduação desenvolvi um aplicativo Android de Visão Computacional para comunicação através do rastreamento ocular, com Java e OpenCV.
+
+# Skills:
+
+![JAVA](https://img.shields.io/badge/Java-A52A2A?style=?style=flat-square&logo=java&logoColor=white)
+![SPRING](https://img.shields.io/badge/Spring-006400?style=flat-square&logo=spring&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-8B6914?style=flat-square&logoColor=white&logo=javascript)
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![GIT](https://img.shields.io/badge/-Git-A52A2A?style=flat-square&logoColor=white&logo=git)
