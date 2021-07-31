@@ -1,6 +1,6 @@
 # Rúben Filipe
 
-Desenvolvedor FullStack Júnior (Java e JavaScript).
+Desenvolvedor FullStack Júnior.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-316192?style=flat-square&logo=linkedin&logoColor=white//www.linkedin.com/in/filipedev/)](https://www.linkedin.com/in/filipedev/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-A52A2A?style=flat-square&logo=gmail&logoColor=white&link=mailto:rubenfilipeao@gmail.com)](mailto:rubenfilipeao@gmail.com)
