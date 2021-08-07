@@ -18,7 +18,5 @@ Sou entusiasta da Vis√£o Computacional. Desenvolvi um aplicativo Android de Vis√
 ![SPRING DATA JPA](https://img.shields.io/badge/-Spring_Data_JPA-006400?style=flat-square&logoColor=white&logo=springdata)
 ![SPRING MVC](https://img.shields.io/badge/-Spring_MVC-006400?style=flat-square&logoColor=white&logo=springmvc)
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-8B6914?style=flat-square&logoColor=white&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-A52A2A?style=flat-square&logoColor=white&logo=html)
-![CSS](https://img.shields.io/badge/-CSS-316192?style=flat-square&logoColor=white&logo=css)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=flat-square&logoColor=white&logo=sql)
 ![GIT](https://img.shields.io/badge/-Git-A52A2A?style=flat-square&logoColor=white&logo=git)
