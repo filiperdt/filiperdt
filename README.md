@@ -13,8 +13,12 @@ Sou entusiasta da Vis√£o Computacional. Desenvolvi um aplicativo Android de Vis√
 
 # Skills:
 
-![JAVA](https://img.shields.io/badge/Java-A52A2A?style=?style=flat-square&logo=java&logoColor=white)
-![SPRING](https://img.shields.io/badge/Spring-006400?style=flat-square&logo=spring&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-A52A2A?style=?style=flat-square&logoColor=white&logo=java)
+![SPRING BOOT](https://img.shields.io/badge/-Spring_Boot-006400?style=flat-square&logoColor=white&logo=springboot)
+![SPRING DATA JPA](https://img.shields.io/badge/-Spring_Data_JPA-006400?style=flat-square&logoColor=white&logo=springdata)
+![SPRING MVC](https://img.shields.io/badge/-Spring_MVC-006400?style=flat-square&logoColor=white&logo=springmvc)
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-8B6914?style=flat-square&logoColor=white&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-316192?style=flat-square&logo=sql&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-A52A2A?style=flat-square&logoColor=white&logo=html)
+![CSS](https://img.shields.io/badge/-CSS-316192?style=flat-square&logoColor=white&logo=css)
+![SQL](https://img.shields.io/badge/SQL-316192?style=flat-square&logoColor=white&logo=sql)
 ![GIT](https://img.shields.io/badge/-Git-A52A2A?style=flat-square&logoColor=white&logo=git)
