@@ -9,8 +9,6 @@ Desenvolvedor Full Stack Júnior.
 
 Meu foco é Java e JavaScript.
 
-Sou entusiasta da Visão Computacional. Desenvolvi um aplicativo Android de Visão Computacional para comunicação através do rastreamento ocular, com Java e OpenCV.
-
 # Skills:
 
 ![JAVA](https://img.shields.io/badge/Java-A52A2A?style=?style=flat-square&logoColor=white&logo=java)
