@@ -4,7 +4,7 @@ Desenvolvedor Full Stack Júnior.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-316192?style=flat-square&logo=linkedin&logoColor=white//www.linkedin.com/in/filipedev/)](https://www.linkedin.com/in/filipedev/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-A52A2A?style=flat-square&logo=gmail&logoColor=white&link=mailto:rubenfilipeao@gmail.com)](mailto:rubenfilipeao@gmail.com)
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-006400?style=flat-square&logoColor=white&logo=whatsapp&link=https://api.whatsapp.com/send?phone=55+12+982657371)](https://api.whatsapp.com/send?phone=55+12+982657371)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-006400?style=flat-square&logoColor=white&logo=whatsapp&link=https://api.whatsapp.com/send?phone=55+12+982657371)](https://wa.me/5551992711031)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-316192?style=flat-square&logoColor=white&logo=telegram&link=https://t.me/filipeoliveira1)](https://t.me/filipeoliveira1)
 
 Meu foco é Java e JavaScript.
