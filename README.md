@@ -17,6 +17,7 @@ Meu foco é Java e JavaScript.
 ![SPRING MVC](https://img.shields.io/badge/-Spring_MVC-006400?style=flat-square&logoColor=white&logo=springmvc)
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-8B6914?style=flat-square&logoColor=white&logo=javascript)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logoColor=white&logo=typescript)
-![REACT](https://img.shields.io/badge/React-f7f7f7?style=flat-square&logoColor=blue&logo=react)
+![ANGULAR](https://img.shields.io/badge/Angular-gray?style=flat-square&logoColor=DD0031&logo=angular)
+![REACT](https://img.shields.io/badge/React-444444?style=flat-square&logoColor=00b3e0&logo=react)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=flat-square&logoColor=white&logo=sql)
 ![GIT](https://img.shields.io/badge/-Git-A52A2A?style=flat-square&logoColor=white&logo=git)
