@@ -19,5 +19,6 @@ Meu foco é Java e JavaScript.
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logoColor=white&logo=typescript)
 ![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logoColor=white&logo=angular)
 ![REACT](https://img.shields.io/badge/React-3178C6?style=flat-square&logoColor=white&logo=react)
+![IONIC](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logoColor=white&logo=ionic)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=flat-square&logoColor=white&logo=sql)
 ![GIT](https://img.shields.io/badge/-Git-A52A2A?style=flat-square&logoColor=white&logo=git)
