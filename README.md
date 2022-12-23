@@ -23,3 +23,4 @@ Meu foco é Java e JavaScript.
 ![ANDROID STUDIO](https://img.shields.io/badge/-Android%20Studio-006400?style=flat-square&logoColor=white&logo=android-studio)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=flat-square&logoColor=white&logo=sql)
 ![GIT](https://img.shields.io/badge/-Git-A52A2A?style=flat-square&logoColor=white&logo=git)
+![DOCKER](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logoColor=white&logo=docker)
