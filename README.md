@@ -20,6 +20,6 @@ Meu foco é Java e JavaScript.
 ![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logoColor=white&logo=angular)
 ![REACT](https://img.shields.io/badge/React-3178C6?style=flat-square&logoColor=white&logo=react)
 ![IONIC](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logoColor=white&logo=ionic)
-![ANDROID STUDIO](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logoColor=white&logo=android-studio)
+![ANDROID STUDIO](https://img.shields.io/badge/-Android%20Studio-006400?style=flat-square&logoColor=white&logo=android-studio)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=flat-square&logoColor=white&logo=sql)
 ![GIT](https://img.shields.io/badge/-Git-A52A2A?style=flat-square&logoColor=white&logo=git)
