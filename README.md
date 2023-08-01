@@ -7,17 +7,14 @@ Desenvolvedor Full Stack Jr.
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-006400?style=flat-square&logoColor=white&logo=whatsapp)](https://wa.me/5551992711031)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-316192?style=flat-square&logoColor=white&logo=telegram)](https://t.me/filipeoliveira1)
 
-Meu foco é Java e JavaScript.
+Meu foco é Node.js e React.
 
 # Skills:
 
-![JAVA](https://img.shields.io/badge/Java-A52A2A?style=flat-square&logoColor=white&logo=java)
-![SPRING BOOT](https://img.shields.io/badge/-Spring_Boot-006400?style=flat-square&logoColor=white&logo=springboot)
-![SPRING DATA JPA](https://img.shields.io/badge/-Spring_Data_JPA-006400?style=flat-square&logoColor=white&logo=springdata)
-![SPRING MVC](https://img.shields.io/badge/-Spring_MVC-006400?style=flat-square&logoColor=white&logo=springmvc)
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-8B6914?style=flat-square&logoColor=white&logo=javascript)
-![TYPESCRIPT](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logoColor=white&logo=typescript)
+![NODE](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logoColor=white&logo=node.js)
 ![REACT](https://img.shields.io/badge/React-3178C6?style=flat-square&logoColor=white&logo=react)
-![ANDROID STUDIO](https://img.shields.io/badge/-Android%20Studio-006400?style=flat-square&logoColor=white&logo=android-studio)
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logoColor=white&logo=typescript)
+![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logoColor=white&logo=mongodb)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=flat-square&logoColor=white&logo=sql)
 ![GIT](https://img.shields.io/badge/-Git-A52A2A?style=flat-square&logoColor=white&logo=git)
