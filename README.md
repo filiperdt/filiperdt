@@ -7,7 +7,7 @@ Desenvolvedor Full Stack Jr.
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-006400?style=flat-square&logoColor=white&logo=whatsapp)](https://wa.me/5512988620939)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-316192?style=flat-square&logoColor=white&logo=telegram)](https://t.me/filipeoliveira1)
 
-Meu foco é Node.js e React.
+Meu foco é Node.js.
 
 # Skills:
 
