@@ -1,6 +1,6 @@
 # Rúben Filipe
 
-Desenvolvedor Full Stack Jr.
+Desenvolvedor Node.js.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-316192?style=flat-square&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/filipedev/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-A52A2A?style=flat-square&logoColor=white&logo=gmail)](mailto:rubenfilipeaoo@gmail.com)
