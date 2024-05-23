@@ -1,13 +1,11 @@
 # Rúben Filipe
 
-Desenvolvedor Node.js.
+Desenvolvedor Fullstack.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-316192?style=flat-square&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/filipedev/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-A52A2A?style=flat-square&logoColor=white&logo=gmail)](mailto:rubenfilipeaoo@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-006400?style=flat-square&logoColor=white&logo=whatsapp)](https://wa.me/5512988620939)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-316192?style=flat-square&logoColor=white&logo=telegram)](https://t.me/filipeoliveira1)
-
-Meu foco é, principalmente, Node.js.
 
 # Skills:
 
